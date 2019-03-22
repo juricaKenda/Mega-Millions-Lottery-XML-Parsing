@@ -1,7 +1,7 @@
 # Lottery Mega Millions [2002.- 2019.] Statistics
 
 The goal of this project was to get some hands-on experience with SAX and the entire XML parsing process. The main focus was,therefore, on the data extraction and some not to complicated statistics on the extracted data.
-
+![](/Visuals/LotteryMegaMillionsVisuals.png)
 ## Getting Started
 
 If you are interested in taking a look at my solution at work, simply download the classes from this repository.
